@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Removal-337](https://user-images.githubusercontent.com/51106967/119447905-350bda00-bd4e-11eb-871d-13e6fbe957c7.png)
+
 <!--
 **Ishita-Tiwari/Ishita-Tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
